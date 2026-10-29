@@ -1,0 +1,40 @@
+{
+  "name": "Sunset Hour 13",
+  "subtitle": "A small collection of golden-hour cocktail recipes.",
+  "description": "Sunset Hour 13 is an offline recipe app featuring Aperol Spritz, Tequila Sunrise, and Sea Breeze.",
+  "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t13/main/sunset-hour-13-icon.png",
+  "website": "https://github.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t13",
+  "tintColor": "#E84F40",
+  "nsfw": false,
+  "featuredApps": [
+    "io.altstore.drinkbench.b01.t13.r1e9e4340ea"
+  ],
+  "apps": [
+    {
+      "name": "Sunset Hour 13",
+      "bundleIdentifier": "io.altstore.drinkbench.b01.t13.r1e9e4340ea",
+      "developerName": "maddiemccarthy",
+      "subtitle": "Three classic cocktails for golden hour.",
+      "localizedDescription": "A polished offline cocktail guide with recipes for Aperol Spritz, Tequila Sunrise, and Sea Breeze.",
+      "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t13/main/sunset-hour-13-icon.png",
+      "tintColor": "#E84F40",
+      "category": "lifestyle",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-29",
+          "localizedDescription": "Initial AltStore Classic release.",
+          "downloadURL": "https://github.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t13/releases/download/v1.0/Sunset-Hour-13-1.0.ipa",
+          "size": 97981,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
